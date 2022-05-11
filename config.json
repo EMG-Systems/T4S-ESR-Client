@@ -1,0 +1,6 @@
+{
+  "API": {
+	"protocol": "https",
+	"baseUrl": "esr.train4sustain.eu"
+  }
+}
